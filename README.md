@@ -1,5 +1,5 @@
 
-# Cricket Data Analysis using Spark
+# Cricket Data Analysis using PySpark
 
 The Indian Premier League (IPL) stands as one of the foremost cricket leagues globally, boasting significant prominence and popularity.
 
